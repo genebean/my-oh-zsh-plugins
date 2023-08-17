@@ -1,0 +1,7 @@
+# Ignore everything:
+/*
+
+# Except for these:
+!/kube-ps1/
+!.gitignore
+
